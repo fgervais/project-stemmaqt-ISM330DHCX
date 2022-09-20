@@ -511,18 +511,18 @@ Text Label 7900 1550 0    50   ~ 0
 INT2
 Text Label 7900 1450 0    50   ~ 0
 INT1
-Text Label 7900 1350 0    50   ~ 0
-VCC
 Text Label 7900 1250 0    50   ~ 0
+VCC
+Text Label 7900 1350 0    50   ~ 0
 GND
 Wire Wire Line
 	7900 1550 8150 1550
 Wire Wire Line
 	8150 1450 7900 1450
 Wire Wire Line
-	7900 1350 8150 1350
-Wire Wire Line
 	7900 1250 8150 1250
+Wire Wire Line
+	7900 1350 8150 1350
 Wire Wire Line
 	2300 1450 2300 1500
 Wire Wire Line
