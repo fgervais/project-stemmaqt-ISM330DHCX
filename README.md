@@ -22,4 +22,4 @@ I2C> w
 
 ## OSHPark
 
-<a href="https://oshpark.com/shared_projects/3tg55XeU" target="_blank"></a>
+<a href="https://oshpark.com/shared_projects/3tg55XeU" target="_blank">https://oshpark.com/shared_projects/3tg55XeU</a>
