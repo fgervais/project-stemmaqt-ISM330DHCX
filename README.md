@@ -1,7 +1,6 @@
 # ISM330DHCX Stemma QT Board
 
 ![Assembled](assets/img/IMG_1368.jpg)
-![Both Sides](assets/img/IMG_1358.jpg)
 
 ## Bus Pirate
 
@@ -24,6 +23,8 @@ I2C> w
 ## OSHPark
 
 <a href="https://oshpark.com/shared_projects/3tg55XeU" target="_blank">https://oshpark.com/shared_projects/3tg55XeU</a>
+
+![Both Sides](assets/img/IMG_1358.jpg)
 
 ## Related Projects
 
